@@ -1,1 +1,1 @@
-Цей бот буде відповідати на команду !hello з повідомленням "Hello, [згадує користувача]!", де [згадує користувача] - це згадка про користувача, який надіслав команду. TOKEN - це токен вашого бота, який ви можете отримати в Discord Developer Portal. Будьте обережні, щоб не розголошувати свій токен.
+This bot will respond to the !hello command with the message "Hello, [mentions user]!", where [mentions user] is the mention of the user who sent the command. TOKEN is your bot's token, which you can get from the Discord Developer Portal. Be careful not to divulge your token.
