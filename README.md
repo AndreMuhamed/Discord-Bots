@@ -3,3 +3,4 @@ of the user who sent the command. TOKEN is your bot's token, which you can get f
 Be careful not to divulge your token.
 
 т5чгт5чтччтчт
+5тч5чтт5чгот5ч5ч
